@@ -1,6 +1,0 @@
-dataset: mini-imagenet
-dataset_args: {split: test}
-
-load: ./save//max-va.pth
-test_save_path: ./save//test
-load_prompt: ./prompt_feature/
